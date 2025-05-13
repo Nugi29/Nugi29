@@ -4,7 +4,7 @@
 
 # 💫 About Me
 - 🎓 BIT Undergraduate @ UCSC  
-- 👨‍💻 Currently working with **Java EE**, **TypeScript**, **Angular**, **NestJS**
+- 👨‍💻 Currently working with **Springboot**, **Angular**, **TypeScript**
 - 🙌 Need help with UI & UX improvements
 - 📚 Learning **DSA** and **Clean Code**
 - 🎯 Passionate about clean interfaces and smooth user experiences
