@@ -140,7 +140,8 @@ Goals:
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Nugi29&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/Nugi29?color=00D9FF&style=for-the-badge&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/Nugi29?color=00D9FF&style=for-the-badge&label=TOTAL+STARS)
+![Total Repos](https://badges.pufler.dev/repos/Nugi29?style=for-the-badge&color=00D9FF&logo=github)
+![Last Activity](https://img.shields.io/github/last-commit/Nugi29/Nugi29?color=00D9FF&style=for-the-badge&label=LAST+SEEN)
 
 </div>
 
