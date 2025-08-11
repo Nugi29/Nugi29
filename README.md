@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=40&duration=2500&pause=500&color=F70700&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hellow...;%F0%9F%98%8E+I'm+Nugitha+Disas+;%F0%9F%93%9A+Self+Learner;%E2%98%95+Java+Enthusiast;%F0%9F%92%BB+Full-stack+Learner;%F0%9F%8E%A8+Web+Designer" alt="Typing SVG" />
 </div>
 
-
-[![Spotify](https://novatorem-git-main-nugitha-disas-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31yeit3ffqphcgx2lfv6do6wzbte)
-
-
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
