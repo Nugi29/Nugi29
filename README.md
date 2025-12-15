@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Retro Developer" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Retro Developer" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <br>
 
@@ -83,22 +83,28 @@
 
 ---
 
-## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nugi29&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nugi29&show_icons=true&theme=tokyonight"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nugi29&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nugi29&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nugi29&layout=compact&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nugi29&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF"/>
 </div>
 
 ---
+---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievement Gallery
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nugi29&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Nugi29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=9"/>
 </div>
 
 ---
